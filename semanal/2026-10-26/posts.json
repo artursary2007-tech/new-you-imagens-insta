@@ -1,5 +1,29 @@
 [
- {"arquivo":"semana-2026-10-26_1.png","tema":"dark","tag":"NOTÍCIA DA SEMANA","destaque":"22","titulo":"Frascos de tirzepatida <em>recolhidos</em> nos EUA","texto":"A FDA anunciou o recolhimento de 22 frascos manipulados por falta de garantia de esterilidade. Procedência e prescrição médica fazem diferença.","rodape":"Fonte: Quartz / FDA, out/2026"},
- {"arquivo":"semana-2026-10-26_2.png","tema":"light","tag":"SAÚDE DIGITAL","destaque":"95<i>%</i>","titulo":"Teleconsulta por vídeo foi <em>útil</em> para quase todos","texto":"Estudo com mais de 184 mil teleconsultas: 95% acharam útil a consulta por vídeo e 92%, por telefone.","rodape":"Fonte: Healthnews / BMC Primary Care (FMUP), out/2026"},
- {"arquivo":"semana-2026-10-26_3.png","tema":"dark","tag":"HÁBITOS","destaque":"20<i>min</i>","titulo":"Mexer o corpo também <em>ajuda a memória</em>","texto":"Em estudo na revista PNAS, 20 minutos de bicicleta ajudaram a lembrar cerca de 21% mais imagens após uma noite sem dormir — quase o mesmo efeito de um cochilo.","rodape":"Fonte: Estado de Minas / PNAS, out/2026"}
+ {
+  "arquivo": "semana-2026-10-26_1.png",
+  "tema": "dark",
+  "tag": "NOTÍCIA DA SEMANA",
+  "destaque": "14",
+  "titulo": "Novas canetas <em>aprovadas</em> pela Anvisa em 2026",
+  "texto": "Semaglutida, liraglutida e uma nova versão de tirzepatida: mais opções de tratamento no Brasil. A escolha certa é sempre com o seu médico.",
+  "rodape": "Fonte: Rádio Pampa / Folha de S.Paulo, out/2026"
+ },
+ {
+  "arquivo": "semana-2026-10-26_2.png",
+  "tema": "light",
+  "tag": "SAÚDE DIGITAL",
+  "destaque": "95<i>%</i>",
+  "titulo": "Teleconsulta por vídeo foi <em>útil</em> para quase todos",
+  "texto": "Estudo com mais de 184 mil teleconsultas: 95% acharam útil a consulta por vídeo e 92%, por telefone.",
+  "rodape": "Fonte: Healthnews / BMC Primary Care (FMUP), out/2026"
+ },
+ {
+  "arquivo": "semana-2026-10-26_3.png",
+  "tema": "dark",
+  "tag": "HÁBITOS",
+  "destaque": "20<i>min</i>",
+  "titulo": "Mexer o corpo também <em>ajuda a memória</em>",
+  "texto": "Em estudo na revista PNAS, 20 minutos de bicicleta ajudaram a lembrar cerca de 21% mais imagens após uma noite sem dormir — quase o mesmo efeito de um cochilo.",
+  "rodape": "Fonte: Estado de Minas / PNAS, out/2026"
+ }
 ]
